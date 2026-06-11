@@ -13,7 +13,7 @@ Building secure systems, intelligent applications and cloud-native solutions �
 <!-- TYPING SVG -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Information+Security+Enthusiast;DevSecOps+Learner;Full+Stack+Developer;AI+Application+Builder;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&lines=Information+Security+Enthusiast;DevSecOps+Learner;Full+Stack+Developer;AI+Application+Builder;Always+Learning+New+Things" />
 </p>
 
 <!-- VISITOR COUNTER -->
@@ -30,9 +30,9 @@ Building secure systems, intelligent applications and cloud-native solutions �
 <li>🎓 B.Tech Information Technology Student</li>
 <li>💻 Passionate about building secure, scalable and user-focused applications</li>
 <li>🔐 Interested in Information Security, IAM and DevSecOps</li>
-<li>🌐 Exploring Full Stack Development using React and Flask</li>
-<li>🤖 Building AI-powered applications using RAG and Agentic AI</li>
-<li>☁️ Learning AWS Security and Cloud Native Development</li>
+<li>🌐 Building Full Stack Development using React + TypeScript + FastAPI + PostgreSQL + Docker + AWS</li>
+<li>🤖 Learning AI-powered applications using RAG and Agentic AI</li>
+<li>☁️ Driven into AWS Security and Cloud Native Development</li>
 <li>🚀 Active participant in hackathons</li>
 </ul>
 
@@ -72,6 +72,25 @@ Building secure systems, intelligent applications and cloud-native solutions �
 
 <hr>
 
+<h3>🧠 AI Tools & Platforms</h3>
+
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+<img src="https://img.shields.io/badge/Bolt-8A2BE2?style=for-the-badge" />
+</p>
+
+<h3>🚀 Deployment Platforms</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,aws" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
 <h2>🌱 Currently Exploring</h2>
 
 <ul>
@@ -109,21 +128,30 @@ Dockerized multi-service application with scalable deployment.
 
 <hr>
 
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodebyDeshma-27&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="right">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyDeshma-27&layout=compact&theme=tokyonight"/>
-</p>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodebyDeshma-27&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodebyDeshma-27&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyDeshma-27&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+</p>
+<p align="center">
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodebyDeshma-27&theme=dracula" />
 </p>
 
 <hr>
+
+<h2 align="center">🏅 GitHub Summary</h2>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodebyDeshma-27&theme=dracula" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodebyDeshma-27&theme=dracula" />
+</p>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodebyDeshma-27&theme=draculat&hide_border=true" />
+</p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -133,22 +161,37 @@ Dockerized multi-service application with scalable deployment.
 
 <h2>🌐 Connect With Me</h2>
 
-<p>
-<a href="https://linkedin.com/in/deshma-udayakumar-514023374">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<p align="left">
+
+<a href="https://linkedin.com/in/deshma-udayakumar-514023374" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:deshma2027@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/CodebyDeshma-27">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/CodebyDeshma-27" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://leetcode.com/u/pDcfRDP6mh/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/deshma2027" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://pathfinder.w3schools.com/" target="_blank">
+<img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/deshma2005" target="_blank">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
 </p>
-
-<hr>
-
 <h3 align="center">
 ⭐ Building secure and intelligent solutions through code.
 </h3>
