@@ -13,7 +13,7 @@ Building secure systems, intelligent applications and cloud-native solutions ğŸš
 <!-- TYPING SVG -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&lines=Information+Security+Enthusiast;DevSecOps+Learner;Full+Stack+Developer;AI+Application+Builder;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&lines=Information+Security+Enthusiast;DevOps+Learner;Full+Stack+Developer;AI automation and LLM enthusiast;Always+Learning+New+Things+ğŸš€" />
 </p>
 
 <!-- VISITOR COUNTER -->
