@@ -174,6 +174,11 @@ Dockerized multi-service application with scalable deployment.
 <a href="https://github.com/CodebyDeshma-27" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
+
+<h2 align="center">💻 Coding & Security Profiles</h2>
+
+<p align="center">
 
 <a href="https://leetcode.com/u/pDcfRDP6mh/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -183,15 +188,20 @@ Dockerized multi-service application with scalable deployment.
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-<a href="https://pathfinder.w3schools.com/" target="_blank">
-<img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/user/deshmag2cl/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://tryhackme.com/p/deshma2005" target="_blank">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 
+<a href="https://pathfinder.w3schools.com/" target="_blank">
+<img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white"/>
+</a>
+
 </p>
+
 <h3 align="center">
 ⭐ Building secure and intelligent solutions through code.
 </h3>
