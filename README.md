@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deshma Udayakumar</h1>
 
 <h3 align="center">
-Information Security • Full Stack Development • AI • DevSecOps
+Information Security • Backend dev • AI • DevSecOps
 </h3>
 
 <p align="center">
