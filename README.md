@@ -78,10 +78,12 @@ Building secure systems, intelligent applications and cloud-native solutions ğŸš
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
 <img src="https://img.shields.io/badge/Bolt-8A2BE2?style=for-the-badge" />
+ 
 </p>
 
 <h3>ğŸš€ Deployment Platforms</h3>
