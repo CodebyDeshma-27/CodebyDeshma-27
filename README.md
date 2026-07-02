@@ -30,7 +30,7 @@ Building secure systems, intelligent applications and cloud-native solutions �
 <li>🎓 B.Tech Information Technology Student</li>
 <li>💻 Passionate about building secure, scalable and user-focused applications</li>
 <li>🔐 Interested in Information Security, IAM and DevSecOps</li>
-<li>🌐 Building Full Stack Development using React + TypeScript + FastAPI + PostgreSQL + Docker + AWS</li>
+<li>🌐 Building Full Stack Development using React + TypeScript + FastAPI + MySQL / MongoDB +  Docker + AWS</li>
 <li>🤖 Learning AI-powered applications using RAG and Agentic AI</li>
 <li>☁️ Driven into AWS Security and Cloud Native Development</li>
 <li>🚀 Active participant in hackathons</li>
