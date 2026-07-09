@@ -62,6 +62,7 @@ Building secure systems, intelligent applications and cloud-native solutions ğŸš
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
+<img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 <h3>ğŸ§° Tools & Platforms</h3>
